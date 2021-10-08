@@ -1,0 +1,76 @@
+{
+    "destinations": [
+        {
+            "name": "Pantai Jumiang",
+            "addrs": "Jumiang, Tanjung, Kecamatan Pademawu, Kabupaten Pamekasan, Madura, Jawa Timur.",
+            "area": "pamekasan",
+            "image": "images/jumiang.png"
+        },
+        {
+            "name": "Puncak Ratu",
+            "addrs": "Dusun Mongging, Desa Tebul Barat, Kecamatan Pegantenan, Kabupaten Pamekasan, Madura, Jawa Timur.",
+            "area": "pamekasan",
+            "image": "images/puncak-ratu.png"
+        },
+        {
+            "name": "Pelabuhan Branta",
+            "addrs": "Desa Branta Pasisir, Kecamatan Tlanakan, Kabupaten Pamekasan, Madura, Jawa Timur.",
+            "area": "pamekasan",
+            "image": "images/beranta.png"
+        },
+        {
+            "name": "Goa Lebar",
+            "addrs": "Desa Rong Tengah, Kecamatan Sampang, Kabupaten Sampang, Madura, Jawa Timur.",
+            "area": "sampang",
+            "image": "images/goa-lebar.png"
+        },
+        {
+            "name": "Pantai Camplong",
+            "addrs": "Jl. Raya Camplong, Kecamatan Camplong, Kabupaten Sampang, Madura, Jawa Timur.",
+            "area": "sampang",
+            "image": "images/camplong.png"
+        },
+        {
+            "name": "Air Terjun Toroan",
+            "addrs": "Desa Ketapang Daya, Kecamatan Ketapang, Kabupaten Sampang, Madura, Jawa Timur.",
+            "area": "sampang",
+            "image": "images/toroan.png"
+        },
+        {
+            "name": "Pantai Sembilan",
+            "addrs": "Bringsang, Kecamatan Giligenteng, Kabupaten Sumenep, Madura, Jawa Timur.",
+            "area": "sumenep",
+            "image": "images/pantai-sembilan.png"
+        },
+        {
+            "name": "Pantai Lombang",
+            "addrs": "Desa Lombang, Kecamatan Batang-Batang, Kabupaten Sumenep, Madura, Jawa Timur.",
+            "area": "sumenep",
+            "image": "images/lombang.png"
+        },
+        {
+            "name": "Bukit Tinggi Daramista",
+            "addrs": "Desa Daramista, Kecamatan Lenteng, Kabupaten Sumenep, Madura, Jawa Timur.",
+            "area": "sumenep",
+            "image": "images/bukit-tinggi-daramista.png"
+        },
+        {
+            "name": "Bukit Jaddih",
+            "addrs": "Desa Jaddih, Kecamatan Socah, Kabupaten Bangkalan, Madura, Jawa Timur.",
+            "area": "bangkalan",
+            "image": "images/jaddih.png"
+        },
+        {
+            "name": "Sumber Pocong",
+            "addrs": "Desa Pocong, Kecamatan Tragah, Kabupaten Bangkalan, Madura, Jawa Timur.",
+            "area": "bangkalan",
+            "image": "images/sumber-pocong.png"
+        },
+        {
+            "name": "Labuhan Mangrove",
+            "addrs": "Desa Labuhan, Kecamatan Sepulu, Kabupaten Bangkalan, Madura, Jawa Timur.",
+            "area": "bangkalan",
+            "image": "images/labuhan-mangrove.png"
+        }
+    ]
+}
