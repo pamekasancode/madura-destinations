@@ -55,7 +55,7 @@ function showShare() {
 }
 
 fab.addEventListener("click", function() {
-    window.location.href = "https://wa.me/?text="+window.location.hostname
+    window.location.href = "https://wa.me/?text=https://pamekasancode.github.io/madura-destinations";
 });
 
 document.getElementById("explore").addEventListener("click", smoothScroll);
